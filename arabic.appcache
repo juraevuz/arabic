@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# Imlo lug'ati v1.22
+index.html
+favicon.ico
+css/style.css
+css/uikit.css
+fonts/FontAwesome.otf
+fonts/fontawesome-webfont.eot
+fonts/fontawesome-webfont.ttf
+fonts/fontawesome-webfont.woff
+fonts/os.woff2
+fonts/os2.woff2
+images/imlo.svg
+js/arrays.js
+js/funcs.js
+js/jquery.min.js
+js/papaparse.min.js
+js/uikit.min.js
+js/words.js
